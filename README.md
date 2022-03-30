@@ -40,3 +40,12 @@ A Infoshop é uma loja de informática que quer monitorar as compras e vendas de
 
 Dúvidas me chame!
 priscilaas
+
+### Banco de dados
+
+docker-compose up -d
+
+Criar database com nome infoshop no pgadmin
+
+botão direito em cima de databases -> create -> database
+colocar o nome infoshop e salvar
